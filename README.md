@@ -1,4 +1,8 @@
-# Bubbles Ultimate Buff Bot Lite Extra Simple (Bubbles)
+# Bubbles Ultimate Buff Bot Lite Extra Simple (Bubbles) Opposition Schools Fix Version
+
+## This is a fork of original BubbleBuffs mod
+This fork fixes Opposition Schools bug and simply bumps the versions up and together. All credit goes to the original creator of this mod, I simply applied a minor fix.
+Below is the README as found on the original mod repo at the time of me forking it.
 
 ## About
 This mod for Pathfinder Wrath of the Righteous adds an in-game option to spellbooks to create buff routines.
